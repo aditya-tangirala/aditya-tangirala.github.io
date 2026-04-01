@@ -31,22 +31,22 @@ window.resumeData = {
     {
       role: 'Senior Staff Software Engineer · Venmo',
       meta: 'Apr 2025 — Present · San Jose, CA',
-      summary: 'Leading Consumer Financial Solutions initiatives and architecting reliable distributed services that support growth and long-term platform evolution.'
+      summary: 'Leading Consumer Financial Solutions initiatives and architecting next gen capabilities that support growth and long-term platform evolution.'
     },
     {
       role: 'Technical Lead · Collectors Universe',
       meta: 'Apr 2023 — Apr 2025 · Bellevue, WA',
-      summary: 'Led 16 engineers modernizing core orchestration, reduced checkout time by 70%, boosted conversions, and expanded auction market share by ~40% through multi-market integrations.'
+      summary: 'Evolving core platforms to power integrated shipping, auctions, and payments experiences, unlocking rapid marketplace growth'
     },
     {
       role: 'Senior Software Engineer · Microsoft',
       meta: 'Jul 2019 — Apr 2023 · Redmond, WA',
-      summary: 'Revamped Partner Center transact experiences and co-led GDAP API platform development, improving security posture and partner retention.'
+      summary: 'Revamped cloud commerce infrastructure and built the foundations of granular administration, enable Microsoft partners to scale seamlessly'
     },
     {
       role: 'Software Engineer II · PayPal',
       meta: 'Feb 2017 — Jul 2019 · San Jose, CA',
-      summary: 'Built fraud detection and underwriting APIs and led adoption of InfluxDB-based telemetry workflows for dramatically faster time-series analysis.'
+      summary: 'Built fraud detection and underwriting APIs, led adoption of modern telemetry workflows for faster time-series analysis'
     }
   ],
   skills: [
@@ -112,7 +112,7 @@ window.resumeData = {
     {
       title: 'M.S. in Computer Science',
       meta: 'Arizona State University · Tempe, AZ · December 2016',
-      summary: 'Specialized in distributed systems, software design, cryptography, NLP, advanced algorithms, AI, DBMS, and software security.'
+      summary: 'Specialized in distributed systems, software design, cryptography, NLP, advanced algorithms, AI and software security.'
     },
     {
       title: 'B.E. (Hons.) in Computer Science Engineering',
@@ -124,12 +124,12 @@ window.resumeData = {
     {
       title: 'OpenAPI Summit',
       meta: 'DeveloperWeek 2026 · Speaker',
-      summary: 'Delivered a session on designing scalable API ecosystems and governance patterns for platform, partner, and product engineering teams.'
+      summary: 'Delivered a session about AI being the new runtime, how to evolve platforms, APIs, and teams to build truly AI-native systems.'
     },
     {
       title: 'Agentic AI for Engineering Productivity',
       meta: 'Venmo Engineering · 2025–Present',
-      summary: 'Led internal talks and demos on Claude Code and MCP-based workflows that accelerated debugging, code generation, and developer velocity across teams.'
+      summary: 'Drove adoption of Claude Code and MCP-based workflows through internal tech talks, enhancing debugging, code generation, and team productivity.'
     }
   ]
 };
