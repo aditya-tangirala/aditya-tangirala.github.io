@@ -108,7 +108,7 @@ window.resumeData = {
     {
       label: 'Execution',
       title: 'Lead cross-team outcomes end to end',
-      description: 'From kickoff to launch, I coordinate multi-team programs across fintech, cloud, and commerce systems to deliver measurable business outcomes like conversion, retention, and revenue growth.'
+      description: 'From kickoff to launch, I coordinate across multiple teams and domains to deliver measurable business outcomes like conversion, retention, and revenue growth.'
     }
   ],
   education: [
