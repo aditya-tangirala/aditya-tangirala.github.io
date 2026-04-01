@@ -19,7 +19,7 @@
         <div class="project-body">
           <div class="project-title"><h3>${escapeHtml(item.title)}</h3></div>
           <p class="muted">${escapeHtml(item.description)}</p>
-          <p class="muted"><strong>Tech:</strong> ${escapeHtml(item.tech)}</p>
+          <p class="muted"><strong>${escapeHtml(item.term || 'Focus')}:</strong> ${escapeHtml(item.tech)}</p>
         </div>
       </article>
     `).join('');
