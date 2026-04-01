@@ -12,18 +12,21 @@ window.resumeData = {
       label: 'Distributed Systems',
       title: 'High-Scale Platform Architecture',
       description: 'Designing resilient distributed systems with strong reliability, observability, and multi-service orchestration for consumer finance products.',
+      term: 'Stack',
       tech: 'Python, TypeScript, Kafka, AWS, DynamoDB, BigQuery'
     },
     {
       label: 'Technical Leadership',
       title: 'Cross-Team Engineering Execution',
       description: 'Leading multi-team initiatives from architecture through delivery, helping organizations ship complex capabilities with clear execution paths.',
+      term: 'Leadership Areas',
       tech: 'Architecture, Delivery, Mentorship, Product Collaboration'
     },
     {
       label: 'AI + Platform',
       title: 'Org-Wide Agentic AI Adoption',
       description: 'Driving adoption of agentic AI workflows and internal tooling to improve developer experience and engineering velocity.',
+      term: 'Focus Areas',
       tech: 'Developer Experience, Agentic AI, Engineering Productivity'
     }
   ],
